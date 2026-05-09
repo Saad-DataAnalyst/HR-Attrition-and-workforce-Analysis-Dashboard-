@@ -1,0 +1,251 @@
+Employee_ID,Name,Age,Gender,Department,Job_Role,Years_at_Company,Monthly_Salary_PKR,Performance_Rating,Job_Satisfaction,Work_Life_Balance,Overtime,Last_Promotion_Years,Attrition
+EMP001,Salman Akhtar,37,Male,IT,IT Manager,7,"184,000",4.3,2.4,2.8,No,8,Yes
+EMP002,Komal Bashir,36,Female,IT,DevOps Engineer,12,"215,000",,4.5,2.2,Yes,2,No
+EMP003,Usman Tariq,28,Male,Operations,Logistics Coordinator,3,"70,000",3.2,2.4,1.5,Yes,5,No
+EMP004,Hina Shah,35,Female,Finance,Accountant,9,"84,000",,,2.3,No,2,No
+EMP005,Saad Iqbal,25,Male,IT,IT Manager,0,"155,000",2.5,3.9,3,Yes,1,Yes
+EMP006,Sara Khan,31,FEMALE,Finance,Finance Analyst,8,"121,000",2.6,4.3,1.7,Yes,7,Yes
+EMP007,Omar Farooq,53,Male,HR,Recruiter,1,"53,000",4.2,4,4.2,Yes,6,Yes
+EMP008,Omar Farooq,34,Male,HR,HR Manager,6,"118,000",,4.6,2.6,Yes,3,No
+EMP009,Tariq Mehmood,55,Male,IT,Software Engineer,9,"102,000",3.8,1.7,2.3,Yes,5,No
+EMP010,Salman Akhtar,28,Male,Finance,Finance Analyst,1,"74,000",4.8,4,2.9,Yes,3,Yes
+EMP011,Rabia Tariq,43,Female,HR,HR Manager,6,"197,000",4.4,3.9,2.4,Yes,7,No
+EMP012,Nasir Ali,27,Male,Finance,Finance Analyst,4,"107,000",4.7,4.6,4.3,No,2,No
+EMP013,Waqas Noor,33,Male,HR,HR Executive,4,"64,000",4,3.6,5,No,7,Yes
+EMP014,Fahad Siddiqui,45,Male,HR,HR Manager,9,"124,000",4.7,3.8,4.3,Yes,6,No
+EMP015,Rabia Tariq,48,Female,Finance,Finance Analyst,0,"84,000",3.5,2.2,3.3,No,2,No
+EMP016,Fahad Siddiqui,49,Male,HR,Recruiter,14,"80,000",3.6,3.7,3.7,No,4,No
+EMP017,Bilal Ahmed,25,Male,HR,HR Manager,0,"153,000",2.9,4.9,3.7,No,4,Yes
+EMP018,Salman Akhtar,39,FEMALE,Finance,Finance Manager,14,"214,000",2.4,2,3.1,No,6,Yes
+EMP019,Ayesha Malik,36,Female,HR,HR Executive,4,"69,000",3.7,4.6,2.8,Yes,7,No
+EMP020,Faisal Rehman,23,Male,IT,DevOps Engineer,0,"204,000",4.4,1.8,3.8,Yes,8,Yes
+EMP021,Rao Hamza,39,Male,HR,HR Executive,5,"48,000",3.8,1.7,1.6,Yes,8,Yes
+EMP022,Hassan Malik,49,Male,Finance,Finance Manager,7,"178,000",2.4,2.1,2.5,Yes,1,No
+EMP023,Faisal Rehman,28,Male,IT,Data Analyst,5,"166,000",2.3,1.9,2,No,1,Yes
+EMP024,Mehwish Ali,37,Female,IT,Data Analyst,5,"123,000",4.3,4.6,4.3,Yes,3,Yes
+EMP025,Zara Qureshi,23,Female,IT,DevOps Engineer,0,"216,000",4.8,4.3,4.2,Yes,7,No
+EMP026,Hina Shah,51,Female,IT,IT Manager,11,"214,000",2.9,1.7,2.9,Yes,2,Yes
+EMP027,Imran Qureshi,41,Male,Operations,Operations Executive,3,"71,000",3.3,1.8,2.7,No,5,No
+EMP028,Amna Farooq,40,Female,Sales,Sales Executive,7,"80,000",2.5,3.9,4.2,Yes,6,Yes
+EMP029,Rabia Tariq,26,Female,IT,DevOps Engineer,1,"181,000",3.9,,3.5,Yes,0,Yes
+EMP030,Fahad Siddiqui,42,Male,IT,IT Manager,1,"215,000",2.5,4.2,2,No,0,No
+EMP031,Usman Tariq,44,Male,IT,IT Manager,13,"183,000",3.4,3.6,2.8,Yes,3,No
+EMP032,Fahad Siddiqui,35,Male,Sales,Sales Executive,12,"56,000",2.4,4.1,2.4,No,4,Yes
+EMP033,Shazia Anwar,38,Female,Operations,Operations Manager,7,"177,000",2.7,4,2.9,No,1,Yes
+EMP034,Rao Hamza,35,Male,HR,HR Executive,1,"80,000",2.1,1.6,1.7,Yes,0,No
+EMP035,Kamran Butt,41,female,HR,HR Manager,6,"192,000",3.1,2.1,2.9,No,4,No
+EMP036,Nasir Ali,45,Female,Sales,Sales Manager,7,"156,000",3.8,4.4,2.8,Yes,5,No
+EMP037,Faisal Rehman,24,Male,IT,Software Engineer,0,"145,000",2.6,2.7,2.4,Yes,0,Yes
+EMP038,Farah Naz,46,Female,Sales,Sales Analyst,15,"82,000",3.7,2.8,3.5,No,4,Yes
+EMP039,Bilal Ahmed,38,Male,HR,Recruiter,2,"47,000",2.7,2.6,1.9,Yes,3,Yes
+EMP040,Layla Hassan,39,Female,Operations,Operations Manager,2,"209,000",3.2,4.1,2.5,No,7,Yes
+EMP041,Asad Mirza,41,Male,IT,Software Engineer,12,"153,000",2.2,4.7,3.1,Yes,5,No
+EMP042,Ali Raza,28,Male,Sales,Sales Analyst,5,"63,000",4.6,2.2,4.6,No,0,Yes
+EMP043,Fahad Siddiqui,23,Female,IT,Software Engineer,1,"173,000",2.5,2,4.2,Yes,2,No
+EMP044,Imran Qureshi,47,Male,IT,DevOps Engineer,3,"139,000",2.8,3.3,2.4,No,2,No
+EMP046,Kamran Butt,34,Male,Operations,Operations Executive,7,"62,000",2.4,2.7,2,No,3,No
+EMP047,Shazia Anwar,50,Female,Sales,Sales Manager,4,"120,000",3,4.2,2.9,Yes,0,Yes
+EMP048,Nasir Ali,23,Male,Sales,Sales Manager,0,"142,000",,2.5,1.9,No,4,No
+EMP049,Faisal Rehman,30,Male,IT,Software Engineer,5,"106,000",4.9,2.3,2.9,No,0,No
+EMP050,Junaid Shah,45,Male,Operations,Logistics Coordinator,6,"72,000",2.4,4,3.9,No,3,No
+EMP051,Shazia Anwar,53,Female,Operations,Operations Executive,5,"78,000",3,2.1,3.3,No,4,Yes
+EMP052,Bushra Khalid,31,Female,HR,HR Manager,6,"105,000",2.2,2.6,3.9,Yes,5,Yes
+EMP053,Bilal Ahmed,25,Male,Operations,Operations Executive,2,"67,000",2.6,2.1,2.1,Yes,7,Yes
+EMP054,Noor Fatima,47,Female,Finance,Finance Analyst,8,"83,000",4.8,4.9,2.7,Yes,4,No
+EMP055,Tariq Mehmood,38,Male,Finance,Finance Analyst,3,"147,000",,2.5,4.8,Yes,2,Yes
+EMP056,Imran Qureshi,55,Male,Sales,Sales Analyst,17,"71,000",2.4,2.9,3.4,Yes,4,Yes
+EMP057,Usman Tariq,54,Male,HR,HR Manager,7,"161,000",4,3.2,2.6,No,0,Yes
+EMP058,Tariq Mehmood,45,Male,Operations,Operations Manager,17,"115,000",2.2,4.4,4,Yes,7,Yes
+EMP059,Layla Hassan,23,Female,Finance,Accountant,0,"101,000",2.1,2.3,4.9,Yes,2,No
+EMP060,Layla Hassan,24,Female,HR,Recruiter,2,"55,000",2.9,3.7,3.9,No,6,No
+EMP061,Omar Farooq,45,Male,HR,Recruiter,4,"89,000",4.8,4.3,3.5,Yes,8,No
+EMP062,Farah Naz,55,Female,HR,HR Manager,8,"161,000",4.5,2.9,2.9,Yes,4,No
+EMP063,Ayesha Malik,39,Female,Sales,Sales Analyst,7,"66,000",4.7,4.6,4,Yes,2,Yes
+EMP064,Imran Qureshi,48,Male,HR,HR Executive,11,"65,000",2.5,2.4,4.2,Yes,2,Yes
+EMP065,Kamran Butt,43,Male,Finance,Accountant,5,"75,000",,3.9,1.7,Yes,8,No
+EMP066,Nasir Ali,48,Male,IT,Software Engineer,10,"208,000",3.6,2.6,2.3,Yes,1,Yes
+EMP067,Rabia Tariq,38,Female,Finance,Finance Manager,13,"188,000",3,,4,Yes,7,Yes
+EMP068,Madiha Raza,55,MALE,Finance,Finance Analyst,0,"93,000",,5,3,No,6,Yes
+EMP069,Ayesha Malik,53,Female,Operations,Operations Manager,18,"157,000",4.1,2,3.2,Yes,7,Yes
+EMP070,Shazia Anwar,42,Female,Finance,Accountant,17,"83,000",3.8,4.2,3.2,No,7,Yes
+EMP071,Junaid Shah,50,Male,Sales,Sales Executive,10,"48,000",4.2,1.9,4.2,No,6,No
+EMP072,Bilal Ahmed,31,Male,IT,IT Manager,3,"347,000",4.3,1.6,4,Yes,0,No
+EMP073,Fahad Siddiqui,36,Male,IT,IT Manager,8,"342,000",2,3.1,3.2,Yes,5,No
+EMP074,Zain Ul Abideen,51,Male,HR,HR Manager,3,"121,000",3.7,1.6,4.5,Yes,6,No
+EMP075,Tariq Mehmood,53,Male,HR,HR Manager,10,"183,000",2.9,3.8,3.8,Yes,7,Yes
+EMP076,Mariam Yousaf,29,Female,Sales,Sales Executive,0,"72,000",4.1,4.7,3.9,No,0,Yes
+EMP077,Tariq Mehmood,40,Male,Operations,Operations Executive,10,"56,000",3.2,3.6,2.3,Yes,8,Yes
+EMP078,Komal Bashir,35,Female,Sales,Sales Manager,1,"208,000",3.2,2.6,2.3,Yes,0,No
+EMP079,Madiha Raza,33,Female,Operations,Operations Executive,10,"40,000",4.6,2.6,2.8,Yes,2,Yes
+EMP080,Bushra Khalid,26,Female,Sales,Sales Analyst,1,"57,000",2.9,2.7,2,Yes,4,Yes
+EMP081,Salman Akhtar,28,Male,Finance,Finance Analyst,1,"74,000",4.8,4,2.9,Yes,3,Yes
+EMP082,Madiha Raza,38,Female,IT,Data Analyst,1,"111,000",2.8,4.8,4.4,Yes,8,Yes
+EMP083,Bushra Khalid,54,Female,IT,Data Analyst,12,"126,000",2.4,3.7,4.9,Yes,3,No
+EMP084,Layla Hassan,35,Female,HR,HR Executive,7,"54,000",4.7,2.5,1.6,Yes,5,No
+EMP085,Nadia Ahmed,25,Female,Sales,Sales Analyst,1,"57,000",5,2.5,4.5,Yes,1,Yes
+EMP086,Zain Ul Abideen,27,Male,Sales,Sales Manager,0,"140,000",2.1,4.5,2.4,Yes,5,Yes
+EMP087,Saad Iqbal,34,Male,Sales,Sales Executive,7,"57,000",3.5,2.6,1.8,Yes,4,No
+EMP088,Saad Iqbal,36,Male,Sales,Sales Analyst,10,"67,000",2.1,3.4,4.1,Yes,7,Yes
+EMP089,Farah Naz,25,Female,IT,Software Engineer,1,"223,000",4.4,4.3,2.1,Yes,2,No
+EMP090,Rao Hamza,38,Male,HR,HR Manager,6,"166,000",4.3,3.4,3.9,Yes,7,No
+EMP091,Bushra Khalid,51,Female,HR,Recruiter,4,"80,000",4.3,4.9,3.4,Yes,3,No
+EMP092,Zara Qureshi,27,Female,IT,Software Engineer,1,"254,000",2.7,4.6,1.9,No,6,No
+EMP093,Ali Raza,34,Male,HR,HR Executive,10,"63,000",4.6,3.6,1.8,Yes,8,No
+EMP094,Omar Farooq,45,Male,IT,DevOps Engineer,18,"238,000",4.9,2.7,3.9,Yes,4,Yes
+EMP095,Shazia Anwar,53,Female,Operations,Operations Manager,18,"126,000",,3.8,3.1,Yes,3,No
+EMP096,Ali Raza,40,FEMALE,Operations,Operations Executive,0,"63,000",2,4.8,4.1,No,8,Yes
+EMP097,Omar Farooq,34,Male,Finance,Accountant,8,"78,000",2.6,4.4,4.3,Yes,7,Yes
+EMP098,Imran Qureshi,54,Male,Operations,Operations Executive,0,"79,000",2.3,3.5,3.6,Yes,3,Yes
+EMP099,Ali Raza,38,Male,Sales,Sales Manager,9,"173,000",,3.5,4.3,Yes,3,Yes
+EMP100,Layla Hassan,26,Female,HR,Recruiter,1,"58,000",3.8,,2.1,Yes,2,Yes
+EMP101,Imran Qureshi,27,Male,Sales,Sales Manager,2,"244,000",2.4,4.4,4.8,Yes,6,Yes
+EMP102,Junaid Shah,50,Male,IT,Data Analyst,18,"157,000",3,2.1,2,Yes,2,Yes
+EMP103,Kamran Butt,47,Male,HR,Recruiter,11,"49,000",3.9,1.7,3.2,No,8,Yes
+EMP104,Farah Naz,36,Female,Operations,Operations Manager,14,"121,000",3.3,4.5,2.9,Yes,3,Yes
+EMP105,Faisal Rehman,31,Male,Finance,Finance Manager,3,"210,000",3.1,,4.1,Yes,1,No
+EMP106,Komal Bashir,49,Female,Sales,Sales Manager,17,"223,000",4.7,4.6,2,Yes,8,Yes
+EMP107,Tariq Mehmood,53,Male,Sales,Sales Manager,9,"237,000",3.1,4.3,4.7,No,2,No
+EMP108,Usman Tariq,25,Male,Operations,Logistics Coordinator,2,"82,000",4.5,3.1,4.5,No,0,No
+EMP109,Imran Qureshi,25,Male,Finance,Finance Analyst,1,"104,000",3.7,,3.6,Yes,0,Yes
+EMP110,Junaid Shah,36,Male,Operations,Operations Manager,2,"201,000",4.3,2.7,3.2,Yes,7,No
+EMP111,Mariam Yousaf,32,Female,IT,Software Engineer,6,"158,000",4.4,2.4,4.7,Yes,2,Yes
+EMP112,Tariq Mehmood,47,Male,Finance,Finance Manager,14,"275,000",4.6,2.6,3.3,No,0,No
+EMP113,Omar Farooq,23,Male,HR,HR Manager,0,"155,000",3.5,2.7,3,Yes,5,No
+EMP114,Hina Shah,33,Female,HR,Recruiter,9,"54,000",4.3,,3.4,Yes,0,Yes
+EMP115,Kamran Butt,38,Male,IT,Software Engineer,1,"173,000",2.3,1.8,4.5,No,1,Yes
+EMP116,Nasir Ali,31,Male,IT,IT Manager,5,"325,000",2.3,4.9,2.4,Yes,1,Yes
+EMP117,Komal Bashir,40,Female,IT,Data Analyst,15,"160,000",2.4,1.6,3.6,Yes,3,Yes
+EMP118,Asad Mirza,51,Male,IT,DevOps Engineer,5,"170,000",3.5,2.7,4.4,Yes,1,Yes
+EMP119,Fatima Noor,39,Female,HR,HR Executive,7,"59,000",,1.8,2,Yes,1,Yes
+EMP120,Amna Farooq,34,Female,Operations,Operations Manager,3,"201,000",3.3,2.1,1.7,Yes,0,Yes
+EMP121,Nasir Ali,46,Male,HR,Recruiter,6,"79,000",2.7,3,4.1,No,4,No
+EMP122,Bilal Ahmed,23,Male,HR,HR Manager,0,"109,000",3.8,3.6,4.7,No,6,Yes
+EMP123,Bushra Khalid,38,Female,Sales,Sales Analyst,11,"83,000",4.7,2.9,2.4,Yes,7,Yes
+EMP124,Kamran Butt,37,Female,HR,HR Executive,15,"80,000",3.7,2.8,3.5,No,6,No
+EMP125,Nasir Ali,42,Male,Operations,Operations Executive,9,"62,000",2.6,2.1,1.8,Yes,4,No
+EMP126,Bushra Khalid,30,Female,IT,DevOps Engineer,6,"165,000",3.2,5,3.6,Yes,0,Yes
+EMP127,Rao Hamza,36,Male,Operations,Logistics Coordinator,0,"56,000",2.2,3.2,2.3,Yes,3,Yes
+EMP128,Amna Farooq,30,Female,Operations,Operations Executive,1,"47,000",3.4,4.6,2.2,Yes,0,Yes
+EMP129,Shazia Anwar,32,Female,IT,Data Analyst,4,"103,000",4.5,4.2,1.6,Yes,4,Yes
+EMP130,Asad Mirza,41,Male,HR,Recruiter,12,"85,000",2.6,2.5,2.4,No,1,No
+EMP131,Zara Qureshi,23,Female,HR,Recruiter,1,"80,000",4.6,4.4,2,Yes,7,Yes
+EMP132,Hassan Malik,47,Male,Finance,Finance Analyst,10,"127,000",3.8,4.8,3,No,7,No
+EMP133,Rao Hamza,41,Male,IT,DevOps Engineer,5,"233,000",3.6,1.9,3.6,Yes,0,Yes
+EMP134,Rao Hamza,50,Male,Sales,Sales Manager,12,"199,000",3.8,3.8,1.9,No,2,No
+EMP136,Rao Hamza,36,Male,Sales,Sales Executive,11,"59,000",3.9,3.8,4.1,No,1,No
+EMP137,Sara Khan,31,Female,Sales,Sales Executive,5,"85,000",3.8,,3.1,No,8,Yes
+EMP138,Bilal Ahmed,40,Male,Sales,Sales Executive,5,"49,000",4.6,4.6,4.5,Yes,3,No
+EMP139,Adeel Hussain,42,Male,Sales,Sales Manager,7,"219,000",4.3,1.7,4.3,No,1,No
+EMP140,Amna Farooq,23,Female,Operations,Logistics Coordinator,0,"59,000",3.1,2.5,4.2,Yes,1,Yes
+EMP141,Mehwish Ali,35,Female,HR,HR Manager,4,"162,000",4.2,3.3,1.5,No,2,No
+EMP142,Amna Farooq,34,Female,Sales,Sales Executive,8,"69,000",3.2,2.2,2,Yes,8,Yes
+EMP143,Zara Qureshi,48,Female,IT,Data Analyst,0,"93,000",2.9,4.1,3.9,No,6,No
+EMP144,Asad Mirza,55,Male,Finance,Finance Manager,16,"208,000",2.6,4.4,1.9,Yes,0,No
+EMP145,Adeel Hussain,49,Male,IT,Data Analyst,6,"138,000",2.6,4.2,4.1,Yes,1,No
+EMP146,Nadia Ahmed,38,Female,Finance,Finance Analyst,13,"116,000",3.5,4.3,2.3,Yes,2,No
+EMP147,Sadia Hussain,39,Female,Finance,Accountant,3,"92,000",2.7,2.4,3.8,Yes,8,No
+EMP148,Salman Akhtar,52,Male,IT,Software Engineer,6,"235,000",3.4,1.9,4,No,7,No
+EMP149,Salman Akhtar,45,Male,IT,Data Analyst,14,"94,000",2.3,2.1,2.6,No,7,Yes
+EMP150,Waqas Noor,49,Male,IT,DevOps Engineer,12,"148,000",2.8,3.4,2,Yes,2,Yes
+EMP151,Saad Iqbal,44,Male,HR,HR Manager,2,"119,000",3.6,2.3,1.6,Yes,6,Yes
+EMP152,Komal Bashir,42,Female,Operations,Operations Manager,9,"207,000",2.2,4.3,2.2,Yes,7,No
+EMP153,Bushra Khalid,47,Female,HR,HR Manager,12,"103,000",2.9,,2.8,Yes,6,No
+EMP154,Waqas Noor,34,Male,HR,HR Manager,12,"139,000",4.7,3.7,2.9,Yes,3,No
+EMP155,Usman Tariq,51,Male,HR,HR Executive,5,"74,000",4.8,2.8,2.2,Yes,2,Yes
+EMP156,Bushra Khalid,48,Female,HR,HR Manager,3,"139,000",2.2,2.4,1.6,Yes,2,No
+EMP157,Saad Iqbal,30,Male,HR,HR Executive,7,"77,000",3.8,4.2,2.2,No,0,No
+EMP158,Fatima Noor,33,Female,HR,HR Executive,1,"55,000",2.2,1.5,2.1,No,4,No
+EMP159,Hina Shah,43,Female,Sales,Sales Manager,10,"163,000",4.7,4.5,2.5,Yes,1,Yes
+EMP160,Sara Khan,32,male,IT,Software Engineer,1,"192,000",4.5,,2.4,Yes,0,Yes
+EMP161,Zara Qureshi,23,Female,IT,DevOps Engineer,0,"216,000",4.8,4.3,4.2,Yes,7,No
+EMP162,Salman Akhtar,28,Male,Sales,Sales Executive,2,"51,000",4.5,3.1,4.4,Yes,3,No
+EMP163,Tariq Mehmood,23,Male,IT,IT Manager,1,"283,000",2.7,2.1,4,No,7,No
+EMP164,Komal Bashir,24,Female,Operations,Logistics Coordinator,2,"91,000",2.4,4.4,3.5,Yes,5,Yes
+EMP165,Nadia Ahmed,55,Female,Sales,Sales Manager,11,"143,000",3,4.5,4.1,Yes,8,Yes
+EMP166,Rao Hamza,23,Male,Operations,Logistics Coordinator,0,"64,000",2.2,2.2,3.9,Yes,3,Yes
+EMP167,Mariam Yousaf,35,Female,Operations,Operations Manager,6,"220,000",4.5,2.5,4.3,Yes,7,No
+EMP168,Nasir Ali,39,Male,Operations,Operations Executive,6,"54,000",2.8,3.6,3,Yes,4,Yes
+EMP169,Ali Raza,37,Male,IT,DevOps Engineer,13,"261,000",2.7,3.2,4.5,Yes,6,No
+EMP170,Tariq Mehmood,32,Male,IT,IT Manager,8,"247,000",3.6,3.7,3.9,Yes,1,No
+EMP171,Layla Hassan,26,Female,HR,HR Manager,3,"176,000",4.9,,3.8,No,8,No
+EMP172,Bushra Khalid,34,Female,Finance,Finance Manager,4,"147,000",3.8,4.1,2.6,Yes,5,Yes
+EMP173,Nadia Ahmed,38,Female,IT,DevOps Engineer,11,"201,000",3.3,3.5,3.3,No,1,Yes
+EMP174,Adeel Hussain,23,Male,HR,HR Manager,1,"142,000",2.7,2.4,2.2,Yes,2,Yes
+EMP175,Iqra Siddiqui,54,Female,IT,Software Engineer,5,"242,000",2.5,2.9,4.4,Yes,1,No
+EMP176,Nasir Ali,41,Male,Operations,Operations Executive,16,"74,000",4.4,3.6,3,Yes,6,Yes
+EMP177,Nasir Ali,30,Female,Operations,Logistics Coordinator,3,"82,000",3.8,2.7,4.5,Yes,2,Yes
+EMP178,Komal Bashir,25,Female,Finance,Finance Analyst,2,"101,000",2.3,4.1,4.7,No,2,No
+EMP179,Fahad Siddiqui,39,Male,Finance,Finance Analyst,1,"141,000",2.6,,2,Yes,8,Yes
+EMP180,Kamran Butt,43,Male,HR,Recruiter,1,"75,000",3.7,2.6,4.9,No,7,No
+EMP181,Rao Hamza,50,Male,IT,Data Analyst,2,"165,000",3.5,3.4,1.9,Yes,3,No
+EMP182,Shazia Anwar,38,Female,Operations,Operations Executive,13,"42,000",3.5,,4.1,No,3,Yes
+EMP183,Ali Raza,35,Male,Sales,Sales Executive,6,"83,000",3.3,4.9,1.7,Yes,1,Yes
+EMP184,Noor Fatima,54,Female,HR,HR Executive,9,"61,000",3.2,2.4,3.6,Yes,4,No
+EMP185,Ahmed Khan,49,Male,Operations,Operations Executive,18,"45,000",4.1,3.7,4.4,No,2,Yes
+EMP186,Faisal Rehman,37,Male,Operations,Operations Manager,13,"178,000",2.3,3.5,4.8,Yes,7,Yes
+EMP187,Sana Butt,28,Female,Sales,Sales Manager,6,"213,000",2.2,3.6,2.8,Yes,8,No
+EMP188,Asad Mirza,51,Male,Operations,Operations Manager,1,"161,000",2.9,5,3.9,Yes,2,No
+EMP189,Waqas Noor,28,Female,Sales,Sales Analyst,2,"80,000",3.5,4.3,3.8,No,1,No
+EMP190,Shazia Anwar,45,Female,Finance,Accountant,6,"77,000",4.5,1.9,4.8,No,5,No
+EMP191,Hassan Malik,31,Male,Finance,Finance Manager,6,"272,000",5,3.8,4.1,No,3,No
+EMP192,Ahmed Khan,37,Male,HR,HR Executive,8,48000,2.7,3.8,2.5,Yes,6,Yes
+EMP193,Hassan Malik,24,Male,Operations,Logistics Coordinator,1,"50,000",2.2,,4.3,No,0,No
+EMP194,Fatima Noor,48,Female,Operations,Logistics Coordinator,5,"66,000",2.7,1.8,1.5,Yes,2,Yes
+EMP195,Junaid Shah,43,Male,Finance,Finance Manager,6,"246,000",2.5,3.2,3.9,No,0,No
+EMP196,Hassan Malik,37,Male,Operations,Operations Executive,2,"56,000",3.6,3.6,2.1,Yes,8,No
+EMP197,Bilal Ahmed,52,Male,Sales,Sales Manager,17,"232,000",4.4,1.5,1.6,No,2,Yes
+EMP198,Rao Hamza,40,Male,Sales,Sales Executive,4,"46,000",2.5,4,3.6,Yes,2,No
+EMP199,Nasir Ali,25,Male,IT,Data Analyst,2,"103,000",4.4,3.8,4.5,Yes,6,No
+EMP200,Hassan Malik,51,Male,Finance,Finance Manager,4,"254,000",3.7,1.8,2.6,Yes,7,Yes
+EMP201,Layla Hassan,38,Female,IT,IT Manager,11,"287,000",3.8,5,3,No,3,Yes
+EMP202,Saad Iqbal,30,Male,IT,Data Analyst,1,"101,000",3.9,2.8,2.9,Yes,8,Yes
+EMP203,Amna Farooq,28,Female,Sales,Sales Analyst,4,"74,000",5,3,3.6,No,5,No
+EMP204,Sara Khan,51,Female,HR,Recruiter,10,"90,000",4.2,4.4,2.5,Yes,6,Yes
+EMP205,Nadia Ahmed,27,Female,IT,Data Analyst,0,"95,000",4.6,4,1.5,Yes,8,No
+EMP206,Hassan Malik,46,Male,Sales,Sales Analyst,9,"96,000",3.5,4.8,3,Yes,0,No
+EMP207,Fahad Siddiqui,43,Male,IT,Software Engineer,10,"138,000",2.4,4.3,4.8,No,8,Yes
+EMP208,Kamran Butt,33,Male,Operations,Operations Executive,7,"73,000",4.4,4.8,3.9,No,5,No
+EMP209,Layla Hassan,23,Female,Finance,Finance Analyst,1,"95,000",3.4,1.9,4.9,No,0,Yes
+EMP210,Zain Ul Abideen,25,Male,Finance,Finance Analyst,0,"102,000",2.7,4.3,2.1,Yes,5,Yes
+EMP211,Salman Akhtar,41,Male,Finance,Accountant,9,"78,000",2.7,4.3,4.2,Yes,4,Yes
+EMP212,Junaid Shah,44,Male,Finance,Finance Analyst,5,"78,000",4.3,2.8,3.6,Yes,6,No
+EMP213,Adeel Hussain,42,Male,Finance,Finance Analyst,18,"127,000",2.8,3.8,1.9,Yes,3,Yes
+EMP214,Rao Hamza,54,Male,Finance,Finance Analyst,13,"118,000",3.4,2.8,3.3,Yes,7,Yes
+EMP215,Sara Khan,31,Female,Operations,Operations Executive,2,"78,000",3.5,4.7,2.2,No,8,No
+EMP216,Sadia Hussain,26,Female,Finance,Accountant,0,"55,000",4,3.5,4.7,Yes,7,No
+EMP217,Fahad Siddiqui,44,Male,Operations,Operations Manager,13,"153,000",2.3,4.9,1.8,No,1,No
+EMP218,Omar Farooq,40,Male,Operations,Operations Executive,8,"46,000",4.1,2.7,4,No,1,Yes
+EMP219,Hassan Malik,48,Male,Finance,Accountant,15,"91,000",2.5,2.9,4.2,Yes,3,No
+EMP220,Mariam Yousaf,54,Female,Operations,Logistics Coordinator,7,"68,000",3.7,4.3,3.1,Yes,0,No
+EMP221,Ahmed Khan,34,Male,Finance,Accountant,7,"92,000",3.9,3.4,4.2,Yes,8,Yes
+EMP222,Bilal Ahmed,29,Male,IT,Software Engineer,3,"100,000",3,2.9,2,No,1,Yes
+EMP223,Sana Butt,44,Female,Operations,Operations Executive,4,"48,000",3.6,3.9,3.5,Yes,1,Yes
+EMP224,Ali Raza,33,Male,Operations,Logistics Coordinator,7,"94,000",4.9,2.6,2.5,No,7,No
+EMP225,Kamran Butt,51,Male,HR,HR Manager,10,"102,000",3.6,1.6,4.4,Yes,0,No
+EMP226,Sadia Hussain,28,Female,HR,HR Manager,2,"140,000",2.4,2,3.7,No,8,No
+EMP227,Hassan Malik,53,Male,Operations,Logistics Coordinator,13,"66,000",2.3,3.3,3.6,No,2,No
+EMP228,Salman Akhtar,44,Male,Operations,Operations Executive,12,"74,000",4.5,4,4.2,Yes,5,Yes
+EMP229,Ahmed Khan,55,Male,Sales,Sales Executive,5,"82,000",2.1,2.1,2.5,No,6,No
+EMP230,Ali Raza,44,Male,HR,Recruiter,13,"87,000",4.8,4.1,4,Yes,8,No
+EMP231,Waqas Noor,30,Male,IT,DevOps Engineer,1,"274,000",2.2,4.3,3,Yes,4,No
+EMP232,Iqra Siddiqui,37,Female,Sales,Sales Manager,7,"177,000",2.1,4.9,4.3,Yes,7,Yes
+EMP233,Nadia Ahmed,49,Female,HR,Recruiter,8,"67,000",3.4,4.3,2.3,No,6,Yes
+EMP234,Bilal Ahmed,50,Female,IT,DevOps Engineer,11,"133,000",2.8,2.2,3.8,No,7,Yes
+EMP235,Noor Fatima,24,Female,Finance,Accountant,0,"81,000",,1.9,3.7,Yes,6,Yes
+EMP236,Farah Naz,39,Female,Finance,Finance Analyst,15,"72,000",3.2,4.3,1.7,No,7,Yes
+EMP237,Asad Mirza,26,Male,HR,Recruiter,2,"81,000",4.7,1.7,2.9,Yes,3,No
+EMP238,Madiha Raza,42,Female,IT,Software Engineer,7,"126,000",2.3,3.1,4,No,8,Yes
+EMP239,Hina Shah,55,Female,Finance,Accountant,3,"62,000",2.2,2.4,3.8,Yes,6,Yes
+EMP240,Bilal Ahmed,53,Male,HR,HR Manager,16,"158,000",3.9,1.8,3.5,Yes,3,Yes
+EMP241,Hina Shah,23,Female,Operations,Logistics Coordinator,1,"70,000",,2.8,4.4,Yes,6,Yes
+EMP242,Madiha Raza,40,Female,Sales,Sales Manager,17,"223,000",2.8,3.2,1.7,Yes,2,No
+EMP243,Hassan Malik,46,Male,Operations,Logistics Coordinator,17,"57,000",2.4,2.3,1.9,Yes,6,Yes
+EMP244,Komal Bashir,26,Female,HR,Recruiter,4,"90,000",3.5,2.1,4.1,Yes,2,Yes
+EMP245,Saad Iqbal,54,Male,IT,IT Manager,1,"302,000",4.2,4.3,3.2,No,8,Yes
+EMP246,Saad Iqbal,37,Male,Operations,Operations Manager,11,"161,000",2.4,4.2,2.3,Yes,5,Yes
+EMP247,Madiha Raza,52,Female,HR,HR Manager,16,"134,000",4.6,4.5,4,Yes,6,No
+EMP248,Usman Tariq,35,Male,Operations,Operations Manager,1,"205,000",3.2,2.6,2.6,No,5,No
+EMP249,Nasir Ali,29,Male,Sales,Sales Executive,3,"51,000",4.4,2.4,3.7,Yes,7,Yes
+EMP250,Imran Qureshi,43,Male,Operations,Logistics Coordinator,11,"87,000",4.8,3.2,2.3,Yes,6,Yes
+EMP251,Kamran Butt,52,Male,Sales,Sales Executive,7,"72,000",2.1,4.6,3.5,Yes,6,Yes
+EMP252,Junaid Shah,35,male,Sales,Sales Analyst,3,"85,000",4.9,1.5,3,Yes,8,Yes
